@@ -19,6 +19,7 @@ The Leaderboard feature adds a competitive edge to the app by showcasing the top
 Users can view the rankings of the three highest achievers, providing motivation to strive for the top positions. 
 It serves as a source of inspiration and encourages healthy competition among users, fostering a vibrant learning community.
 
-Get Started
+> Get Started
+
 To begin your journey of mastering C programming, simply download or clone the app from the GitHub repository. 
 Explore the different modes, practice your coding skills, and strive to top the leaderboard. Remember, practice makes perfect!
