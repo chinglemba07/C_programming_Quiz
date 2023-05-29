@@ -3,7 +3,7 @@ C Programming Quiz App
 The C Programming Quiz App is a powerful and interactive tool designed to assist individuals in developing and enhancing their skills in C programming. 
 This app, developed using Python, provides a platform for users to test their knowledge through various modes such as Practice Session, Competition Mode, and Leaderboard.
 
-Key Features
+> Key Features
 1. Practice Session
 In Practice Session mode, users can access a wide range of carefully curated questions covering various concepts and topics in C programming. 
 This mode is ideal for beginners who want to grasp fundamental concepts and improve their coding skills. Users can attempt questions at their own pace, 
